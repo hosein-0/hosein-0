@@ -1,11 +1,11 @@
 {
-  "username": "Jenesyx",
-  "name": "Arta Bidkhori",
-  "wordmark": "ARTA",
-  "role": "Full-stack developer · AI automation builder",
-  "location": "Germany · from Tehran",
-  "status": "Building products, agents and memorable digital experiences.",
-  "website": "https://artabidkhori.com",
+  "username": "hosein-0",
+  "name": "Hosein Abdolmaleki",
+  "wordmark": "HOSEIN",
+  "role": "Web Developer · Python Enthusiast",
+  "location": "Toyserkan· Iran",
+  "status": "Turning ideas into clean code and building the future, one project at a time.",
+  "website": "",
   "photo": "assets/profile-source.png",
-  "skills": ["Next.js", "TypeScript", "Python", "n8n", "Figma", "Solidity"]
+  "skills": ["HTML", "CSS", "JavaScript", "Python", "WordPress"]
 }
