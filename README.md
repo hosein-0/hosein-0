@@ -15,7 +15,7 @@
 
 <br>
 
-<sub><strong>AQUA LAUNCH</strong> · animated profile system · powered by live GitHub data</sub>
+<sub><strong>HOSEIN</strong> · web developer · crafting ideas into code</sub>
 
 </div>
 
